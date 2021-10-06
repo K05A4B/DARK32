@@ -1,0 +1,8 @@
+{
+    "header": {
+        "logo": {"url": "/", "text": "DARK32", "logo": "/img/logo.jpg"},
+        "content": [
+        ]
+    },
+    "imports":[]
+}
